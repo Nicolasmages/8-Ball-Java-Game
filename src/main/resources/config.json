@@ -1,0 +1,82 @@
+{
+  "Table": {
+    "colour": "orange",
+    "friction": 0.02,
+    "size": {
+      "x": 600,
+      "y": 300
+    },
+    "pockets": [
+      {
+        "position": {
+          "x": 5.0,
+          "y": 5.0
+        },
+        "radius": 20.0
+      },
+      {
+        "position": {
+          "x": 300.0,
+          "y": 5.0
+        },
+        "radius": 20.0
+      },
+      {
+        "position": {
+          "x": 595.0,
+          "y": 5.0
+        },
+        "radius": 20.0
+      },
+      {
+        "position": {
+          "x": 5.0,
+          "y": 295.0
+        },
+        "radius": 20.0
+      },
+      {
+        "position": {
+          "x": 300.0,
+          "y": 295.0
+        },
+        "radius": 20.0
+      },
+      {
+        "position": {
+          "x": 595.0,
+          "y": 295.0
+        },
+        "radius": 20.0
+      }
+    ]
+  },
+  "Balls": {
+    "ball": [
+      {
+        "colour": "white",
+        "position": {
+          "x": 300.0,
+          "y": 150.0
+        },
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "mass": 1.0
+      },
+      {
+        "colour": "green",
+        "position": {
+          "x": 300.0,
+          "y": 200.0
+        },
+        "velocity": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "mass": 1.0
+      }
+    ]
+  }
+}
